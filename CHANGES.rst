@@ -5,6 +5,8 @@ Changelog
 Version 0.1
 ===========
 
-- Feature A added
-- FIX: nasty bug #1729 fixed
-- add your changes here!
+- Initial version of a reverse polish notation (RPN) calculator
+- Provides a command line interface
+- Provides a interactive shell
+- Provides a function to import and call from within Python
+- Not all operators/functions are implemented, but the basic ones.
