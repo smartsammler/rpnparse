@@ -16,7 +16,7 @@ Though it is basically a project for me to play a little bit around you might fi
 Note
 ====
 
-It has been highly inspired by the great example of (Learn you some Erlang)[http://learnyousomeerlang.com/functionally-solving-problems#rpn-calculator] and secondly by (pyrpn)[https://github.com/archman/pyrpn].
+It has been highly inspired by the great example of `Learn you some Erlang <http://learnyousomeerlang.com/functionally-solving-problems#rpn-calculator>`_ and secondly by `pyrpn <https://github.com/archman/pyrpn>`_.
 
 This project has been set up using PyScaffold 2.5.7. For details and usage
 information on PyScaffold see http://pyscaffold.readthedocs.org/.
